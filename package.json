@@ -1,0 +1,20 @@
+{
+  "name": "curso-scope-closure",
+  "version": "1.0.0",
+  "description": "This is my notes about \"Closures y Scope en JavaScript\" Course from Platzi",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jorgetrad99/curso-scope-closure.git"
+  },
+  "keywords": [],
+  "author": "Jorge Trad <jetradl@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jorgetrad99/curso-scope-closure/issues"
+  },
+  "homepage": "https://github.com/jorgetrad99/curso-scope-closure#readme"
+}
